@@ -1,0 +1,5 @@
+The ultimate purpose of Fansearch is to be a search engine for fannish content. A kind of niche Google.
+
+The first challenge is to build an engine that can tell the difference between fannish and non-fannish pages, and that's what we'll be focusing on for now.
+
+Later, we'll start to worry about building an index and an interface for people to access the index. That's a big challenge that's going to require many resources. But for now, we just want to make something that can tell you which pages are fannish and which are not.
